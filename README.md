@@ -1,16 +1,20 @@
-## Hi there 👋
+# Olá, eu sou o Jesmiel C. Silva! 👋
 
-<!--
-**jesmielcruz2019-rgb/jesmielcruz2019-rgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Tecnologia da Informação na Gran Faculdade, atualmente cursando o **2º Período Letivo**. Desenvolvendo habilidades técnicas e comportamentais com foco em soluções eficientes, infraestrutura de tecnologia e segurança.
 
-Here are some ideas to get you started:
+## 🚀 Conhecimentos em Desenvolvimento (Disciplinas Concluídas)
+Durante este ciclo acadêmico, alcancei aproveitamento máximo e desenvolvi projetos práticos nas seguintes frentes:
+- **Linux e Programação em Shell Script** (Automação de tarefas e administração de sistemas)
+- **Redes e Segurança da Informação** (Configurações de redes locais, protocolos e conceitos de segurança de dados)
+- **Lógica e Tomada de Decisão** (Estruturação de algoritmos e resolução de problemas)
+- **Computadores, Linguagens Formais e Programação** (Fundamentos de computação e arquitetura)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias e Ferramentas
+- **SO:** Linux (Terminal/Shell Script), Windows
+- **Controle de Versão:** Git e GitHub
+- **Foco Prático:** Automação de sistemas, infraestrutura, segurança digital e lógica aplicada.
+
+---
+*Conecte-se comigo para networking e parcerias em projetos de tecnologia!*
+
+
